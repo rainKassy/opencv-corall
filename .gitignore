@@ -1,0 +1,15 @@
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# PyCharm
+.idea/
+*.iml
+
+# Файлы изображений и видео
+py/*.jpg
+py/*.png
+py/*.mp4
+
